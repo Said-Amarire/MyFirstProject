@@ -1,11 +1,3 @@
-# WeatherApp
+# MyFirstProject
 
-## Updates
-
-- Fixed bug in app.js
-- Updated layout in index.html
-- Improved styling in style.css
-
-## Feature Branch
-- New branch: forecast-feature
-- Future feature: adding forecast module
+This is my first project to practice Git commands. It contains basic files to demonstrate staging, committing, and checking commit history.
